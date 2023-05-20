@@ -15,6 +15,11 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/BobsonGomez/.git/
 
 ```
+- [x] Finished adding headers to text
+- [x] added a image
+- [x] successfully added code
+- [ ] step 5 is still left
+
 
 
 
